@@ -67,7 +67,7 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 </ol>
 
 <h3>Sample Input</h3>
-<hr>
+
 7 9 <BR>
 A B <BR>
 A C <BR>
